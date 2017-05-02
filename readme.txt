@@ -6,4 +6,4 @@ Git tracks changes of files.
 My first task at 4/19.
 create a new branch is quick and simple.
 Git can merge branches.
-It is dev branch.
+It is A dev branch.
